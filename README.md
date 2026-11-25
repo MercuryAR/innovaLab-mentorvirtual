@@ -576,3 +576,4 @@ Nginx sirve el React build estático y hace reverse proxy a `/api/` y `/admin/` 
 - **Landing page pública** integrada como pantalla previa al login/registro.
 
 ---
+
